@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">home-automation</string>
+    <string name="title_activity_led_control">ledControl</string>
+</resources>
